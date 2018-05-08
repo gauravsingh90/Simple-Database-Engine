@@ -126,9 +126,8 @@ There are some sample queires in doc/create-insert-queries.txt and doc/QueriesTo
 ### Create and Insert queries
 
 Below is the gif to demo the create and insert queries
-
 ![](http://i.imgur.com/Jdc9kTR.gif)
-![](https://github.com/gauravsingh90/Simple-Database-Engine/blob/master/docs/gifs/create-insert.gif)
+
 
 ### Sample execution
 We provided the flexibility of storing the returned query records in a file or output them into the screen. 
@@ -140,11 +139,10 @@ SET OUTPUT <file_name>
 - Make sure the empty file is already present in the current working directory.
 
 ![](http://i.imgur.com/KIAT1Pk.gif)
-![](https://github.com/gauravsingh90/Simple-Database-Engine/blob/master/docs/gifs/queries.gif)
+
 
 ### Working of Sum operation
 ![](http://i.imgur.com/Yg67FBZ.gif)
-![](https://github.com/gauravsingh90/Simple-Database-Engine/blob/master/docs/gifs/sum.gif)
 
 
 <br />
