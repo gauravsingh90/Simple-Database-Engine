@@ -127,6 +127,7 @@ There are some sample queires in doc/create-insert-queries.txt and doc/QueriesTo
 
 Below is the gif to demo the create and insert queries
 ![](http://i.imgur.com/Jdc9kTR.gif)
+-![](https://github.com/gauravsingh90/Simple-Database-Engine/blob/master/docs/gifs/create-insert.gif)
 
 
 ### Sample execution
