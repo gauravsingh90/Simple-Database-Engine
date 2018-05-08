@@ -127,7 +127,7 @@ There are some sample queires in doc/create-insert-queries.txt and doc/QueriesTo
 
 Below is the gif to demo the create and insert queries
 
-![](https://i.imgur.com/Jdc9kTR.gif)
+![](http://i.imgur.com/Jdc9kTR.gif)
 
 ### Sample execution
 We provided the flexibility of storing the returned query records in a file or output them into the screen. 
