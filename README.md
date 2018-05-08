@@ -138,11 +138,11 @@ SET OUTPUT <file_name>
 .....dumps the records into <file_name>
 - Make sure the empty file is already present in the current working directory.
 
-![](https://github.com/sainath09/Simple-Database-Engine/blob/master/docs/gifs/queries.gif)
+![](https://github.com/gauravsingh90/Simple-Database-Engine/blob/master/docs/gifs/queries.gif)
 
 ### Working of Sum operation
 
-![](https://github.com/sainath09/Simple-Database-Engine/blob/master/docs/gifs/sum.gif)
+![](https://github.com/gauravsingh90/Simple-Database-Engine/blob/master/docs/gifs/sum.gif)
 
 
 <br />
